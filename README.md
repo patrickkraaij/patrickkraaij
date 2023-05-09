@@ -25,7 +25,7 @@ education:
     "Bachelor of Information and Communication Technology (B ICT)",
     "MBO Multimedia Academy",
   ]
-company: iO Tech Concultancy
+company: iO Tech Consultancy
 
 fields_of_interests:
   [
