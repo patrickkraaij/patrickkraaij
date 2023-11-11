@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! I'm Patrick Kraaij and I'm a Senior Frontend Engineer
+  Hi! I'm Patrick Kraaij and I'm a Senior Front-end Engineer
 </h1>
 
 <p align="center">
@@ -41,7 +41,7 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack JavaScript Developer",
-    "Senior Frontend Engineer",
+    "Senior Front-end Engineer",
     "Lead Developer",
     "Accessibility consultant",
   ]
