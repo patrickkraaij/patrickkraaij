@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! I'm Patrick Kraaij and I'm a Senior Front-end Engineer
+  Hi! I'm Patrick Kraaij and I'm a Freelance Senior Software Engineer
 </h1>
 
 <p align="center">
@@ -19,23 +19,24 @@
 ```yaml
 name: Patrick Kraaij
 located_in: Nijkerk, The Netherlands
-current_job: Senior Frontend Engineer and Team Manager
+current_job: Senior Frontend Engineer
 education:
   [
     "Bachelor of Information and Communication Technology (B ICT)",
     "MBO Multimedia Academy",
   ]
-company: iO Tech Consultancy
+company: Patrick Kraaij (self employed)
 
 fields_of_interests:
   [
+    "Front-end Development".
     "Vue.js"
     "React.js",
     "Node.js Development",
     "Express",
     "Web Development",
     "Semantic and accessible HTML",
-    "JavaScript Fundamentals",
+    "JavaScript",
     "TypeScript",
   ]
 technical_background:
