@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/patrickkraaij/">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
-</a>
+  <a href="https://www.linkedin.com/in/patrickkraaij/">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
+  </a>
 </p>
 
 <p align="center">
@@ -30,10 +30,12 @@ company: Patrick Kraaij (self employed)
 fields_of_interests:
   [
     "Front-end Development".
-    "Vue.js"
     "React.js",
-    "Node.js Development",
+    "Vue.js",
+    "Next.js",
+    "NestJS",
     "Express",
+    "Node.js Development",
     "Web Development",
     "Semantic and accessible HTML",
     "JavaScript",
@@ -45,6 +47,7 @@ technical_background:
     "Senior Front-end Engineer",
     "Lead Developer",
     "Accessibility consultant",
+    "Team Manager"
   ]
   
 hobbies: ["Gaming", "Shaolin Kempo", "Snowboarding"]
