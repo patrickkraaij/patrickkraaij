@@ -30,14 +30,14 @@ current_assignments: VodafoneZiggo and LicenseQ
 education:
   [
     "Bachelor of Information and Communication Technology (B ICT)",
-    "MBO Multimedia Academy",
+    "MBO Multimedia Academy"
   ]
 company: Patrick Kraaij (self employed)
 
 fields_of_interests:
   [
     "Front-end Development".
-    "API Development".
+    "API Development",
     "React.js",
     "Vue.js",
     "Next.js",
@@ -47,7 +47,7 @@ fields_of_interests:
     "Web Development",
     "Semantic and accessible HTML",
     "JavaScript",
-    "TypeScript",
+    "TypeScript"
   ]
 technical_background:
   [
