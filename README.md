@@ -2,7 +2,7 @@
   Hi! I'm Patrick Kraaij and I'm a Freelance Senior Software Engineer
 </h1>
 <h2>
-  Why should you hire me?
+  Hire me because you're looking for a developer with...:
 </h2>
 
 <ul>
