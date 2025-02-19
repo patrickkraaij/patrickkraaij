@@ -6,7 +6,7 @@
 </h2>
 
 <ul>
-    <li><strong>Full-Stack JavaScript Expertise</strong> – I build high-performance <strong>web applications and APIs</strong> using <strong>React, Next.js, and NestJS</strong>, ensuring seamless user experiences.</li>
+    <li><strong>Full-Stack JavaScript Expertise</strong> – I build high-performance <strong>web applications and APIs</strong> using <strong>React, Next.js, NestJS and Express</strong>, ensuring seamless user experiences.</li>
     <li><strong>Scalable &amp; Maintainable APIs</strong> – I develop <strong>robust, well-documented REST & GraphQL APIs</strong>, making integrations smooth and future-proof.</li>
     <li><strong>User-Centric & Accessible Development</strong> – I follow <strong>semantic HTML</strong> and accessibility best practices, ensuring <strong>inclusive and SEO-friendly</strong> web applications.</li>
     <li><strong>Agile &amp; Collaborative Mindset</strong> – I work efficiently in <strong>Scrum teams</strong>, ensuring clear communication, rapid iteration, and alignment with business goals.</li>
