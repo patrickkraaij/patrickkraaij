@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! I'm Patrick Kraaij and I'm a Freelance Senior Software Engineer
+  Hi! I'm Patrick Kraaij and I'm a Freelance Senior Full Stack Software Developer
 </h1>
 <h2>
   Hire me because you're looking for a developer with...:
