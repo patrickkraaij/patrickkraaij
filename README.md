@@ -32,7 +32,7 @@
 ```yaml
 name: Patrick Kraaij
 located_in: Nijkerk, The Netherlands
-current_assignments: VodafoneZiggo and LicenseQ
+current_assignments: Enrise and reshape.work
 education:
   [
     "Bachelor of Information and Communication Technology (B ICT)",
